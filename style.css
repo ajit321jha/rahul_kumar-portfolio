@@ -140,7 +140,7 @@ a{
     -45deg, #ee7752, #d14279, #4a019c, #033529);
         background-size: 400% 400%;
         animation: gradient 9s ease infinite;
-        display: block;
+        
     }
     .section-1 {
         padding-top: 4vh;
